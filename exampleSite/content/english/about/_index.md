@@ -1,5 +1,5 @@
 ---
-title: About Our Company
+title: About Us
 description: this is meta description
 bg_image: images/featue-bg.jpg
 
