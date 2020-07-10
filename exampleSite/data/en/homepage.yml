@@ -7,7 +7,7 @@ banner:
   content : "If you live and breathe cloud, or would like to learn how innovations in cloud computing can benefit your IT channel business, this community is for you."
   button:
     enable : true
-    label : "Discover Our Project"
+    label : "Learn more"
     link : "project"
 
 ############################# About #################################
@@ -49,39 +49,38 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "We are always looking for experts like you to speak."
+  content : "Thank you for your interest in speaking in our technical community events. The topics of presentation can be around Azure, DevOps, Microsoft 365, Dynamics 365 or Power Platform. Please fill up the form that follows so that we can keep in touch with you prior to event planning in the upcoming days."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Submit Your Interest"
     link : "contact"
 
 ############################# Funfacts ###############################
 funfacts:
   enable : true
   title : "Fun Facts About Us"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description : ""
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
-      count : "99"
+      name : "Discussion"
+      count : "+"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Article Written"
-      count : "45"
+      count : "2"
       
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "125"
+      name : "Meetup Completed"
+      count : "10"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
+      name : "Awesome Talks"
+      count : "20"
 
   testimonial_slider:
     # testimonial item loop
