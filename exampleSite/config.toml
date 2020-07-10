@@ -7,51 +7,47 @@ theme = "airspace-hugo"
 title = "Nepal Cloud Professionals "
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Nepal Cloud Professionals All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Nepal Cloud Professional All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
+
 weight = 2
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "pricing"
-name = "Partners"
-weight = 4
-[[menu.footer]]
-URL = "service"
-name = "Service"
+
+
+
 weight = 3
 [[menu.footer]]
 URL = "project"
 name = "Events"
+
 weight = 2
 [[menu.footer]]
 URL = "about"
 name = "About"
-weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+
 weight = 1
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
+
 weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
+
 weight = 6
 [[menu.main]]
 hasChildren = true
@@ -60,14 +56,13 @@ weight = 5
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "service"
-name = "Service"
+
+
 weight = 3
 [[menu.main]]
 URL = "project"
 name = "Events"
+
 weight = 2
 [[menu.main]]
 URL = "about"
