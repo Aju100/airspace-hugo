@@ -1,5 +1,5 @@
 +++
-author = "Building Cloud-native Applications 2020- July 2020 Meetup"
+author = "Aju Tamang"
 bg_image = "/images/cloudnative.png"
 categories = ["Meetup"]
 date = 2020-07-09T18:15:00Z
