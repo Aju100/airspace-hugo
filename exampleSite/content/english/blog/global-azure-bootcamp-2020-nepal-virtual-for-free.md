@@ -1,6 +1,6 @@
 +++
 author = "Aju Tamang"
-bg_image = ""
+bg_image = "/images/event-details.jpg"
 categories = ["Bootcamp"]
 date = 2020-07-09T18:15:00Z
 description = ""
