@@ -32,3 +32,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/english/blog/building-cloud-native-applications-2020-july-2020-meetup.md
