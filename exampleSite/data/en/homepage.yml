@@ -85,22 +85,19 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Raymond Roy"
+    - name : "Pradeep Kandel"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "Azure Consultant"
+      content : "Awesome Community"
                 
     # testimonial item loop
-    - name : "Randi Renin"
+    - name : "Mr.Someone"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "MVP"
+      content : "Awesome community"
                 
     # testimonial item loop
-    - name : "Rose Rio"
+    - name : "Mr.Someone"
       image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "Aws Certified"
+      content : "awesome community"
