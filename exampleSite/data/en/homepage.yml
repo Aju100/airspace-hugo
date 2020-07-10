@@ -44,6 +44,16 @@ service:
   enable : true
   # service content comes from "data/*/service.yml" file
 
+cta:
+  enable : true
+#  bg_image : "images/call-to-action-bg.jpg"
+  title : "Join us in our discussion forum!"
+  content : "This is a group in Facebook where relevant contents are shared between the members of the community."
+  button:
+    enable : true
+    label : "Join us Here"
+    link : "contact"
+
 
 ############################ call to action ###########################
 cta:
@@ -65,7 +75,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Discussion"
-      count : "+"
+      count : "10"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
