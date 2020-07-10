@@ -34,4 +34,6 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/blog/building-cloud-native-applications-2020-july-2020-meetup.md
+- exampleSite/content/english/blog/building-cloud-native-applications-2020-july-2020-meetup.md
+- exampleSite/content/english/blog/global-azure-bootcamp-2020-nepal-virtual-for-free.md
 - exampleSite/content/english/blog/global-azure-bootcamp-2020-nepal-virtual-for-free.md
