@@ -4,8 +4,18 @@ about:
   image: "images/company/about.jpg"
   title: "We are the cloud professionals"
   content:
-    "Welcome to Nepal Cloud Professionals community! We are a group of independent IT/ Dev professionals, solution providers and industry thought leaders is driving new ideas in cloud computing. If you live and breathe cloud, or would like to learn how innovations in cloud computing can benefit your IT channel business, this community is for you.
-    "
+    "Welcome to Nepal Cloud Professionals community! We are a group of independent IT/ Dev professionals, solution providers and industry thought leaders is driving new ideas in cloud computing. If you live and breathe cloud,
+    or would like to learn how innovations in cloud computing can benefit your IT channel business, this community is for you."
+
+cta:
+  enable: true
+  #  bg_image : "images/call-to-action-bg.jpg"
+  title: "Join us in our discussion forum!"
+  content: "This is a group in Facebook where relevant contents are shared between the members of the community."
+  button:
+    enable: true
+    label: "Join us Here"
+    link: "contact"
 #
 #  button:
 #    enable : true
@@ -120,6 +130,6 @@ about:
 #      temporibus eos sequi alias hic nemo."
 
 ############################# call to action #################################
-cta:
-  enable: true
-  # call to action content comes from "data/*/homepage.yml"
+#cta:
+# enable: true
+# call to action content comes from "data/*/homepage.yml"
