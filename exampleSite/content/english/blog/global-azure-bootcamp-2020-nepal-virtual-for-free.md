@@ -1,10 +1,10 @@
 +++
 author = "Aju Tamang"
-bg_image = "/images/gloablazure.jpg"
+bg_image = ""
 categories = ["Bootcamp"]
 date = 2020-07-09T18:15:00Z
 description = ""
-image = ""
+image = "/images/event-details.jpg"
 tags = ["azure"]
 title = "Global Azure Bootcamp 2020 Nepal – Virtual for Free!"
 type = "post"
